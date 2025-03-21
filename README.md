@@ -25,3 +25,7 @@ Our goal is to make radio signal data accessible and engaging. By combining hard
 - **Reliable Data Flow**: Build a system to collect and share signal data efficiently. 🔄
 - **Testing Made Easy**: Include a signal simulator to refine the experience before using live data. ⚙️
 - **Hardware Integration**: Leverage the Raspberry Pi to capture real-world radio signals. 🍓
+
+## 🖼️ App Preview
+
+![App Preview](./doc/Visualizer.png)
